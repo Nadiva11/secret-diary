@@ -1,6 +1,12 @@
-# secret_diaryyy
+# Secret Diary
 
-A new Flutter project.
+Aplikasi catatan harian pribadi yang dibuat dengan Flutter & Dart.  
+Fitur keamanan dengan PIN, tampilan sederhana, dan warna pastel aesthetic.
+
+## Fitur:
+- Tambah, edit, dan hapus catatan harian
+- Keamanan dengan PIN
+- Desain diary minimalis modern
 
 ## Getting Started
 
